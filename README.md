@@ -4,7 +4,7 @@
 
 **Teacher & software developer from Algeria 🇩🇿**
 
-أستاذ ومطوّر برمجيات — أبني أدوات عملية للمدارس والمؤسسات الصحية
+أستاذ ومطوّر برمجيات — أبني أدوات عملية
 
 </div>
 
@@ -14,7 +14,7 @@
 
 - 🎓 Student at the **University of Ouargla**
 - 👨‍🏫 Middle-school teacher (Scratch, Word, Excel)
-- 🛠️ I build desktop and Android tools for Algerian schools and hospitals, in Arabic, French and English
+- 🛠️ I build desktop and Android tools, in Arabic, French and English
 
 ### 🚀 Projects
 
